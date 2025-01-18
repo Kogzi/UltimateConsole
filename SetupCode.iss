@@ -24,8 +24,8 @@ InfoBeforeFile=D:\Github\UltimateConsole\Script\note.txt
 InfoAfterFile=D:\Github\UltimateConsole\Script\note.txt
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
-OutputBaseFilename=UC
-SetupIconFile=C:\Users\Kogzi\Downloads\bnb_crypto_icon_264355.ico
+OutputBaseFilename=SetupUC
+SetupIconFile=D:\Github\UltimateConsole\Asset\Icon.ico
 SolidCompression=yes
 WizardStyle=modern
 
