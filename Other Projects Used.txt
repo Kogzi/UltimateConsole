@@ -1,0 +1,11 @@
+Playnite (Interface) :
+	- GitHub : https://github.com/JosefNemec/Playnite
+	- Web Site : https://playnite.link/
+
+VLC (Video Launch) :
+	- GitHub : https://github.com/videolan/vlc
+	- Web Site : https://www.videolan.org/vlc/
+
+Widget Xbox Game Bar (Widget For Playnite In Game Bar) :
+	- GitHub : https://github.com/JosefNemec/Playnite
+	- Web Site : https://playnite.link/
